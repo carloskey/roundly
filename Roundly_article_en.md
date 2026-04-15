@@ -430,5 +430,4 @@ If you're building HITL into a LangGraph agent, start with `interrupt_before=["t
 
 ---
 
-*Carlos Zhang, Trend Micro R&D*  
 *Code: [`benchmark/`](benchmark/)*
